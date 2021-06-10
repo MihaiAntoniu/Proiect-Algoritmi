@@ -1,5 +1,4 @@
-//verificare nr perfect
-
+// PROPRIETATEA DE NUMAR PERFECT
 #include <iostream>
 using namespace std;
 
