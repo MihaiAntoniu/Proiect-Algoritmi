@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main()
 {
     int a, a1, ogl=0,c;
