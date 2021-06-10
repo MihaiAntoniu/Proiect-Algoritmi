@@ -9,5 +9,5 @@ int main()
     a = b;
     b = aux;
     cout<<a<<" "<<b;
-	return 0;
+    return 0;
 }
