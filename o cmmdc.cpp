@@ -1,14 +1,11 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
 
     int n;
-
     cin >> n;
-
     int d=2; // d va fi, pe rand, fiecare factor prim din descompunere
     int p; // p va fi puterea lui d in descompunere
     // il im partim pe n la d in mod repetat, pana cand devine 1
