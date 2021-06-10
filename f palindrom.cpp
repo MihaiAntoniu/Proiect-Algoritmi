@@ -1,3 +1,4 @@
+// PROPRIETATEA DE NUMAR PALINDROM
 #include <iostream>
 using namespace std;
 
