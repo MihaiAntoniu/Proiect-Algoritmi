@@ -1,3 +1,4 @@
+// CIFRELE UNUI NUMAR
 #include <iostream>
 using namespace std;
 
@@ -10,7 +11,6 @@ int main()
         int uc = n % 10; //determinam ultima cifra a lui n
         cout << uc << " "; // prelucram ultima cifra
         n /= 10; // eliminam ultima cifra (trunchiem numarul)
-
     }
     return 0;
 }
