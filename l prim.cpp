@@ -1,3 +1,4 @@
+// PROPRIETATEA DE NUMAR PRIM
 #include <iostream>
 long int n, prim, d;
 
