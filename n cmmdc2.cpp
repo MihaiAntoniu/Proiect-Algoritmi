@@ -1,5 +1,5 @@
+// CMMDC PRIN ALGORITMUL LUI EUCLID
 #include <iostream>
-
 using namespace std;
 
 int main()
