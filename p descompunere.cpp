@@ -1,3 +1,4 @@
+// DESCOMPUNEREA UNUI NUMAR IN FACTORI PRIMI
 #include <iostream>
 using namespace std;
 
